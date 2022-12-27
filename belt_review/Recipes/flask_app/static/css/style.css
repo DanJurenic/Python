@@ -1,0 +1,18 @@
+*{
+    padding: 0;
+    margin: 0;
+    vertical-align: top;
+}
+
+#register_form, #login_form{
+    background-color: rebeccapurple;
+    color: aliceblue;
+}
+
+.reg_btn, .login_btn{
+    font-weight: bold;
+    color: rebeccapurple;
+    background-color: aliceblue;
+    padding: 5px;
+    box-shadow: 5px 5px black;
+}

@@ -1,0 +1,5 @@
+<!-- use some jinja -->
+
+{% for messages in get_flashed_messages(category=['whatever_you_named_the_category']) %}
+<p class="alert alert-danger">{{ message }}</p>
+{% endfor %}

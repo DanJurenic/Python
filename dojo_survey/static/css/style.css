@@ -1,0 +1,14 @@
+*{
+    padding: 0;
+    margin: 0;
+    vertical-align: top;
+}
+
+form{
+    color: blanchedalmond;
+    background-color: darkred;
+    height: 500px;
+    width: 500px;
+    margin: auto;
+    padding: 20px;
+}
